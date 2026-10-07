@@ -1,6 +1,6 @@
 # Hi, I'm Bilge 👋
 
-### Computer Programming Graduate | Junior Software Developer
+### Computer Programming Graduate | 
 
 I am a **Computer Programming graduate from Kastamonu University** with an interest in software development, web technologies, and database systems.
 
@@ -23,7 +23,7 @@ During my education, I developed projects using **C#, Python, SQL, HTML, and CSS
 
 ### 🌱 Currently
 
-I am improving my software development skills, learning new technologies, and looking for opportunities to gain professional experience as a **Junior Software Developer**.
+I am improving my software development skills, learning new technologies, and looking for opportunities to gain professional experience as a **Computer Programming**.
 
 ### 📫 Contact
 
